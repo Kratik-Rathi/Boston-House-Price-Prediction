@@ -10,9 +10,6 @@ This repository is dedicated to analyzing and predicting housing prices in Bosto
 - [Modeling](#modeling)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [How to Use](#how-to-use)
-- [Future Scope](#future-scope)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -59,6 +56,7 @@ The following models were implemented:
 2. **Decision Tree Regressor**
 3. **Random Forest Regressor**
 4. **Gradient Boosting Regressor**
+5. **Polynomial Regression**
 
 Each model was fine-tuned using hyperparameter optimization techniques.
 
@@ -74,7 +72,6 @@ The table below summarizes the performance of each model:
 | Random Forest Regressor    | X.XX               |
 | Gradient Boosting Regressor| X.XX               |
 
-*Note: Replace "X.XX" with actual accuracy values after running the models.*
 
 ---
 
